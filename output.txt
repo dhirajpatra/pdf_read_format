@@ -1,0 +1,308 @@
+   
+Contact
++917893273022  (Home)
+dhiraj.patra@gmail.com
+www.linkedin.com/in/dhirajpatra
+(LinkedIn)
+dhirajpatra.github.io  (Portfolio)
+dhirajpatra.blogspot.com/  (Blog)
+Top Skills
+Extract, Transform, Load (ETL)
+Time Series Analysis
+PySpark
+Languages
+German  (Elementary)
+French  (Elementary)
+Hindi  (Native or Bilingual)
+Bengali  (Native or Bilingual)
+English  (Full Professional)
+Certifications
+Core Java
+Probability for Data Science
+Data Visualizations with Tableau
+SCRUM Master
+edX Linux Foundation
+Honors-Awards
+Extraordinary achievement beyond
+requirementDhiraj Patra
+Software Architect | AI, ML, Python, Data Science, IoT, Cloud ⌨️ ‍
+Bengaluru, Karnataka, India
+Summary
+Experienced Software Architect and Industrilizing ML Engineer with
+25+ years of expertise including innovating and patenting Applied AI,
+Data Science, IoT, and Cloud technologies. Specializes in building
+scalable microservices SaaS architecture and applications. Adept at
+delivering high-quality solutions through product-centric engineering
+and cutting-edge technology stacks.
+Key Highlights:
+- Extensive experience in OOPS and Service Oriented Architecture
+(SOA)
+- Strong proficiency in Python, JS, AI, ML, IoT, CI/CD, MVC, AWS,
+Azure, IBM-cloud, Google-cloud, Microservices, Docker, Kubernetes,
+Git, Linux with shell and bash scripting, Redis, Kafka, Nginx, and
+Apache
+- Successfully managed and mentored cross-functional teams on a
+global scale
+- Proven track record in evaluating deliverable quality and adhering
+to project timelines
+- Onsite and offshore work experience across diverse continents
+- Regularly write technical articles on LinkedIn and Medium,
+benefiting thousands of tech enthusiasts
+I am driven to innovate and contribute to transformative patented
+projects continuously. My expertise in building scalable and reliable
+solutions using cutting-edge technologies makes me a valuable
+asset to any team.
+Experience
+FTC Solar, Inc
+2 years
+Staff Software Architect
+July 2023 - Present  (2 months)
+  Page 1 of 8   
+World wide
+I take the initiative and creating foundation for company's AI, ML, IoT, Drone,
+and Cloud project. Defining the system's requirements. Designing the system's
+architecture. Overseeing the implementation of the system including OTA.
+Mentoring and training junior engineers. Conducting technical reviews.
+Presenting technical information to stakeholders. Reporting directly to the
+CTO, I am committed to driving innovation and delivering impactful results.
+Software Architect
+April 2022 - July 2023  (1 year 4 months)
+Bengaluru, Karnataka, India
+Take the initiative for patented R&D projects in AI, ML, IoT, Drone and Cloud.
+Analysis, architecture, development, OTA and mentoring junior teams are daily
+routines of my work. Automating manual field processes for ️solar ️tracker
+️predictive analysis ️CNN Reporting to CTO.
+Senior Software Engineer
+September 2021 - March 2022  (7 months)
+Bengaluru, Karnataka, India
+Building microservices architecture and applications for IoT & cloud
+applications. Which is using multi-threading, multiprocessing, microcontroller
+based microservices software.
+FTC SOLAR IS A FAST GROWING, GLOBAL PROVIDER OF SOLAR
+TRACKER SYSTEMS, TECHNOLOGY, SOFTWARE, AND ENGINEERING
+SERVICES.
+FTC Solar’s software development team brings decades of experience to bear
+on the challenges of controlling and monitoring each solar array.
+Successfully created the microservice architecture for Voyager solar tracker
+application. Which uses new tech microcontroller based IoT hardware. And
+updating its application with team.
+Accion Labs
+Solutions Architect
+August 2020 - July 2021  (1 year)
+Bengaluru, Karnataka, India
+Successfully built microservices SaaS architecture and implementation with
+the engineering team.
+Product, Engineering and Architecture are three key areas to take care of while
+developing. I need to explain complex systems at an executive level, while
+also working closely with engineering teams to deliver scalable and efficient
+services. 
+  Page 2 of 8   
+Utilized OO programming languages, Service Oriented Architecture (SOA),
+and the cutting-edge Cloud technology stack to build solutions that solve our
+challenges, ranging from scaling for massive data input volumes to supporting
+customers around the world.
+Self Employed
+Solutions Architect and Developer [during COVID-19 lockdown]
+March 2020 - July 2020  (5 months)
+Remote
+Helped different MNCs and startups to create and optimize their applications.
+Built microservices, multitenant cloud application architecture and
+development.
+eg. for LRN [provided immediate up-gradation plan and scalable, optimized
+architecture for one of the high-end applications].
+eg. helping a few other startups as well with microservices and multitenant
+architecture. Using mainly Python, Django, Flask, AWS, GCP, ML, DL and
+related.
+Have successfully built scalable, highly secure fintech, AI and ML-based
+applications with my years of expertise in different technologies and industry
+domains.
+Besides these, continue studying ML courses. Which will help me to refine the
+knowledge I am working on since 2019.
+Impelsys
+Solutions Architect
+May 2018 - February 2020  (1 year 10 months)
+Bengaluru Area, India
+Built microservices and server-less high-end cloud applications for world
+leaders in health care LMS
+and automation. 
+Created a high-end fully automated architecture and application mentor other
+team
+members. Using Python/Django/Flask AWS, AI, ML.
+Mobilution
+Solutions Architect [contract position]
+September 2017 - April 2018  (8 months)
+Hyderabad Area, India
+  Page 3 of 8   
+Successfully completed one cloud-based e-commerce application for
+American Redcross by Python  and Machine Learning with Numpay, Panda,
+Opencv technologies with micro-services & server-less.
+Blueberry Labs
+Technical Architect [contract consultant]
+April 2017 - August 2017  (5 months)
+Hyderabad Area, India
+Successfully created one of the main product for the company. Which is cloud-
+based ecommerce by Python stack with micro services for the company. Also
+worked on some back end module with Python, Django modules.
+DSmart Systems Private Limited
+Senior Consultant Architect [contract consultant]
+February 2017 - April 2017  (3 months)
+Hyderabad Area, India
+Successfully created e-commerce and telecom project modules by Python,
+Flask micro services.
+Webappclouds llc
+Technical Architect [contract consultant]
+November 2016 - February 2017  (4 months)
+Hyderabad Area, India
+Successfully created cloud-based pilot project SAAS architecture and back-
+end by Python along with related technologies stack. REST API services
+both monolithic and microservices. Besides making architecture, coding,
+testing, documentation, optimize and help to manage the project and its
+management applications. Hands-on developing the core services, mentor
+for other team members with Django, Flask, REST, AWS, Memcached, Solr,
+Redis, angularjs, nodejs, Python, Django http://webappclouds.com/
+Rappier
+Technical Architect - Engineering
+February 2015 - November 2016  (1 year 10 months)
+Successfully created cloud based application and mobile back end cloud
+services almost along for this startup. Besides making architecture, testing,
+documentation, optimize and help to manage the project and its management
+applications. Hands-on Python developing the core services, mentor for other
+team members. Already successfully implemented and continue growing
+as best solutions to create Closrr a high level and sophisticated application
+  Page 4 of 8   
+besides other application for it like the campaign, advertising solutions and
+many more. http://getclosrr.com/
+MCS Solutions
+Technical Leader
+December 2013 - January 2015  (1 year 2 months)
+Lead Solutions Architect at MCS Solutions for myMCS product development
+team for myMCS application which is almost 25 years old and continue
+growing in fast space in Europe, US and Asia. Worked on Python, Django,
+LAM-PHP, Zend2, Doctrine, HTML 5, ajax, javascript, ExtJs, Zend, XML,
+web services, load balancing, managing highly experienced team with
+SCRUM development methodology. Created IOT based real estate and facility
+management solutions back end module. Worked on site in Antwerp and
+offshore in Hyderabad.
+Americos Technologies
+Technical Leader [created social netowrking site]
+May 2013 - October 2013  (6 months)
+Ahmedabad Area, India
+Worked as Technical Leader & head of technical ad-visor for LAMP &
+mobile application team. Created a big social networking site from scratch.
+Created REST web services for mobile application. Handling cloud server
+all configuration and maintains. Also creating other web applications in
+Rackspace cloud.
+SagarSoft  India Ltd
+Technical Leader
+February 2011 - January 2013  (2 years)
+Technical Leader for Open Source PHP team. Created and executes
+development plans across multiple projects and revises as appropriate to
+meet changing needs and requirements. Provided technical direction for
+the development, design, and systems integration across multiple client
+engagements from definition phase through implementation. Identifies
+reusable code required for our code library and ensures the high quality
+creation of the code including architecture, database diagram, testing rules.
+Saras India System Pvt Ltd
+LAMP / Open Source Service Head
+July 2010 - January 2011  (7 months)
+  Page 5 of 8   
+Worked here as open source head of this company. It was a very challenging
+position in this fast-growing company. I have done 2 to 3 small to mid-sized
+projects and also initiated full different types of architecture for my own big
+project. Done some part of the development. Besides taught the technologies
+to team members in all aspects. I wish all the best to all of its members both in
+USA and India. Mostly due to my health problem (back pain problem) at that
+time I had to hospitalized for a short duration besides they had stopped the
+PHP development.
+ictstudio.ie
+Chief Architecht & Project Manager
+December 2008 - June 2010  (1 year 7 months)
+Established my own web development consulting company, Sarvottom with
+the help of Ireland / France based ictstudio and localworldz. Worked both
+onsite in Ireland and offshore in India. Provided the best from Open Source
+web2 solution with Python and PHP both to all with on site and off site team.
+Working for some complex web 2.0 portals with all latest technologies that
+time like gmap, reverse gecoding, mail management, erp, dom, xml, Zend,
+Drupal, Magento etc. I have also got a great experience when I became
+an entrepreneur to develop rural area employment through Information
+Technologies especially Web. I became more practical and diligent to my
+product/service which I am creating for clients.
+Mass Software Solution PVT Ltd.
+Project Manager
+January 2007 - December 2008  (2 years)
+Worked as Project Manager both on-site Ireland and offshore in India. Handle
+a large team in India as well as in Ireland. Analysis of Business Requirements
+and the creation of high-level System & Architecture Design Work on high-end
+innovative custom applications based on PHP/MySQL and various third-party
+APIs and Web Services using MVC frameworks like Zend, Cake PHP along
+with Drupal.
+123 Greetings / Intrasoft Technologies Limited
+Team Leader
+July 2006 - December 2006  (6 months)
+Worked for created huge newsletter section for then world's largest free
+greetings site 123greetins.com Establishing ways for team members to
+complete their tasks. Created communication channels between the team and
+other departments. Estimation management, Time sheet management, Proper
+  Page 6 of 8   
+resource management, Proper time management, Quality management, and
+Identified project risks. Defining milestones for a new project.
+Grey Matter India Technologies - An Idhasoft Company
+Team Leader
+April 2006 - June 2006  (3 months)
+Worked for social networking site Meetme. Left in an emergancy of wife's
+health. Establishing ways for team members to complete their tasks. Created
+communication channels between the team and other departments. Estimation
+management, Time sheet management, Proper resource management, Proper
+time management, Quality management, and identified project risks. Defining
+milestones for a new project.
+Great Media Technologies Pvt Ltd.
+PHP programmer
+September 2004 - March 2006  (1 year 7 months)
+Worked for 6 big portals for this MNC. Develop, record and maintain
+cutting edge web-based PHP applications on portal plus premium service
+platforms. Write technical as well as non-technical specifications along with
+record all procedures. Ensure to resolve identified issues related with PHP
+development to different customers varying from senior managers to varied
+technical personnel. Guide business decisions from technical perspective like
+performance, reliability, scalability and security. Write all clean object-oriented
+PHP as well as efficient SQL. Maintain as well as edit current web sites and
+write semantic markup.
+Janardan Rai Nagar Rajasthan Vidyapeeth University
+Co-ordinator cum Project Guide
+January 2004 - August 2004  (8 months)
+Worked as coordinator of this open university district head quarter besides
+project guide to university students. Guide in full SDLC to students in different
+types of project. Mentoring to students to complete real life projects. Also teach
+different subjects in computer science and information teachnologies.
+Pixel
+Project Guide cum Faculty
+January 2003 - December 2003  (1 year)
+Kolkata Area, India
+Work for real life web development project guide to several engineering and
+university students. Guide in full SDLC to students in different types of project.
+  Page 7 of 8   
+Mentoring to students to complete real life projects. Also teach different
+subjects in computer science and information technologies.
+Freelancer.com
+Freelance Programmer
+October 1997 - December 2002  (5 years 3 months)
+Burdwan, Kolkata, Bangalore, Sambalpur, India
+Worked for some small software development companies/projects and other
+financial organisations including freelance programming on Fortran, Clipper,
+Foxpro, VB, Oracle etc. I studied and completed following degrees and
+certificates program CIC, PPC and MCA besides working as a programmer.
+Education
+Indian Institute of Technology, Guwahati
+Applied Data Science, Machine Learning & Edge AI, Computer
+Science  · (December 2022 - June 2023)
+Indian Institute of Technology, Roorkee
+Python for Machine Learning, Computer Science  · (2020 - 2020)
+Indira Gandhi National Open University
+Master in Computer Application, Computer and Information Sciences,
+General  · (January 2000 - December 2002)
+Indira Gandhi National Open University
+Preparatory Program for Computing, Higher Mathematics for
+computing  · (January 2000 - June 2000)
+Indira Gandhi National Open University
+Certificate In Computing, Computer Science  · (July 1999 - December 1999)
+  Page 8 of 8
